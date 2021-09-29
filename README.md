@@ -1,6 +1,6 @@
 # DragAndDrop-Android
 - You can drag vegetable into bowl and remove it from the bowl.
-- This example uses onLongClickLisener & onsetOnDragListener to achive this task.
+- This example uses onLongClickLisener & onDragListener to achive this task.
 
 #### Give ⭐ if you find helpful. ✌
 
